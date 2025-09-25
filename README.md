@@ -1,8 +1,5 @@
 # Excel-sales_analysis
 AtliQ sales Insigths 
-# Excel---Sales_Analysis
-
-## Sales Report Project
 
 ###  Objective  
 - Developed a [Customer Performance Report](https://github.com/Srithikarao/Excel---Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to track and evaluate customer-wise sales performance.  
