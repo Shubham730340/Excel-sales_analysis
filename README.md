@@ -41,4 +41,3 @@ Support business leaders in making informed decisions and enhance transparency w
 - Power Pivot: Built relationships between multiple tables to enable seamless modeling  
 - DAX: Used for calculated columns and deeper insights  
 - Integrated additional data sources to enhance existing data models
-- 
